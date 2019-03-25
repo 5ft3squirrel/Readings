@@ -1,4 +1,4 @@
-# Readings
+# ReadingsLog
 stuff im reading
 ## legend
  [c]: for class</br>
