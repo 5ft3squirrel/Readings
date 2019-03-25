@@ -1,5 +1,5 @@
 # ReadingsLog
-stuff im reading
+stuff im reading, all the other files are notes.
 ## legend
  [c]: for class</br>
  [m]: mediatechnology</br>
