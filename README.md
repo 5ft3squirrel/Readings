@@ -4,7 +4,8 @@ stuff im reading, all the other files are notes.
  [c]: for class</br>
  [m]: mediatechnology</br>
  [y]: art history</br>
- [z]: stuff on China
+ [z]: stuff on China</br>
+ [a]: architecture, urban stuff
 ## winter quarter, 2019
 - [x] Descartes, Discourse on Method, chapter V [c][m]
 - [x] Bernard de Fontenelle, To Mr. C [c][m] 
@@ -23,3 +24,6 @@ stuff im reading, all the other files are notes.
 - [ ] Alexander Galloway, The Interface Effect [m]
 - [ ] Wu Hung, The Double Screen: Medium and Representation in Chinese Paintings [z][y]
 - [ ] Lev Manovich, The Anti-Sublime Ideal of Data Art [m][y]
+- [ ] wangjun, chéng jì [z][a]
+## taking forever
+- [ ] Albert Camus, le Mythe de Sisyphe
