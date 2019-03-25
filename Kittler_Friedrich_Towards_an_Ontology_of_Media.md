@@ -1,4 +1,5 @@
 ## Friedrich Kittler, Towards an Ontology of Media
+https://monoskop.org/images/9/9c/Kittler_Friedrich_2009_Towards_an_Ontology_of_Media.pdf
 ## terms
 ⋅⋅⋅ entelechy: n.【哲】圓滿實現；生命的原理 realization of potential.</br>
 ⋅⋅⋅ techne: craftsmanship, art.</br>
