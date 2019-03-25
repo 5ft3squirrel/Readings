@@ -3,6 +3,7 @@ stuff im reading
 ## legend
  [c]: for class</br>
  [m]: mediatechnology
+ [y]: art history
 ## winter quarter, 2019
 - [x] Descartes, Discourse on Method, chapter V [c][m]
 - [x] Bernard de Fontenelle, To Mr. C [c][m] 
@@ -18,3 +19,5 @@ stuff im reading
 ## spring break, 2019
 - [ ] Friedrich Kittler, Towards an Ontology of Media [m]
 - [ ] Claire Bishop, Installation Art [m]
+- [ ] Alexander Galloway, The Interface Effect [m]
+- [ ] Wu Hung, The Double Screen: Medium and Representation in Chinese Paintings [y]
