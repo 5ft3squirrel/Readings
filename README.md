@@ -17,7 +17,7 @@ stuff im reading
 - [x] Alan Turing, Computing Machinery and Intelligence [c][m]
 - [x] Marvin Minsky, Why People Think Computers Can't [c][m]
 - [x] Steven Strogatz, A Giant Step for a Chess-Playing Machine [c][m]
-## spring break, 2019
+## spring break, 2019 (it's only 7 days ;_;)
 - [ ] Friedrich Kittler, Towards an Ontology of Media [m]
 - [ ] Claire Bishop, Installation Art: A Critical Anthology [m]
 - [ ] Alexander Galloway, The Interface Effect [m]
