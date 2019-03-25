@@ -2,7 +2,7 @@
 stuff im reading
 ## legend
  [c]: for class</br>
- [m]: mediatechnology
+ [m]: mediatechnology</br>
  [y]: art history
 ## winter quarter, 2019
 - [x] Descartes, Discourse on Method, chapter V [c][m]
