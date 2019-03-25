@@ -21,5 +21,5 @@ stuff im reading
 - [ ] Friedrich Kittler, Towards an Ontology of Media [m]
 - [ ] Claire Bishop, Installation Art: A Critical Anthology [m]
 - [ ] Alexander Galloway, The Interface Effect [m]
-- [ ] Wu Hung, The Double Screen: Medium and Representation in Chinese Paintings [c][y]
+- [ ] Wu Hung, The Double Screen: Medium and Representation in Chinese Paintings [z][y]
 - [ ] Lev Manovich, The Anti-Sublime Ideal of Data Art [m][y]
