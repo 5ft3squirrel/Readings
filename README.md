@@ -3,7 +3,8 @@ stuff im reading
 ## legend
  [c]: for class</br>
  [m]: mediatechnology</br>
- [y]: art history
+ [y]: art history</br>
+ [z]: stuff on China
 ## winter quarter, 2019
 - [x] Descartes, Discourse on Method, chapter V [c][m]
 - [x] Bernard de Fontenelle, To Mr. C [c][m] 
@@ -18,6 +19,7 @@ stuff im reading
 - [x] Steven Strogatz, A Giant Step for a Chess-Playing Machine [c][m]
 ## spring break, 2019
 - [ ] Friedrich Kittler, Towards an Ontology of Media [m]
-- [ ] Claire Bishop, Installation Art [m]
+- [ ] Claire Bishop, Installation Art: A Critical Anthology [m]
 - [ ] Alexander Galloway, The Interface Effect [m]
-- [ ] Wu Hung, The Double Screen: Medium and Representation in Chinese Paintings [y]
+- [ ] Wu Hung, The Double Screen: Medium and Representation in Chinese Paintings [c][y]
+- [ ] Lev Manovich, The Anti-Sublime Ideal of Data Art [m][y]
