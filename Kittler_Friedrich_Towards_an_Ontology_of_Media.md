@@ -61,7 +61,7 @@ Derrida:</br>
 ⋅⋅⋅ ⋅⋅⋅ finally: "modern man has become a consumer of radio news which distracts him with worldwide news from his **existential authenticity**."</br>
 ⋅⋅⋅ ⋅⋅⋅ ontology: turns into ontology of "dustances, transmissions, and media."</br>
 ⋅⋅⋅ ⋅⋅⋅ i.e. radio: as man's existential tendency to dedistanciate, to diminish distances.</br>
-- [ ] Kittler: "postwar computers cannot be thought of anymore as external and extensive objects which our immaterial cartesian subject represents to itself. On the contrary, computer technology on the one hand and man on the other are inseparately linked by an endless feedback loop, by technology's essence as the danger itself...recursion should start with the earliest Greek thinker-poets, pass to Asistotle's fatal distinction btw physics and logic, and lead to our latest logical and aristhmetical machinery."
+- [ ] Kittler: "postwar computers cannot be thought of anymore as external and extensive objects which our immaterial cartesian subject represents to itself. On the contrary, computer technology on the one hand and man on the other are inseparately linked by an endless feedback loop, by technology's essence as the danger itself...recursion should start with the earliest Greek thinker-poets, pass to Asistotle's fatal distinction btw physics and logic, and lead to our latest logical and aristhmetical machinery."</br>
 ⋅⋅⋅ 1. "technical media are the visible side of some moon whose dark side would be mathematics and physics".</br>
 ⋅⋅⋅ 2. form v. matter ---maths, computer science---> commands addresses, data.</br>
 ## summary
