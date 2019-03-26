@@ -19,7 +19,7 @@ stuff im reading, all the other files are notes.
 - [x] Marvin Minsky, Why People Think Computers Can't [c][m]
 - [x] Steven Strogatz, A Giant Step for a Chess-Playing Machine [c][m]
 ## spring break, 2019 (it's only 7 days ;_;)
-- [ ] Friedrich Kittler, Towards an Ontology of Media [m]
+- [x] Friedrich Kittler, Towards an Ontology of Media [m] [summary pending!]
 - [ ] Claire Bishop, Installation Art: A Critical Anthology [m]
 - [ ] Alexander Galloway, The Interface Effect [m]
 - [ ] Wu Hung, The Double Screen: Medium and Representation in Chinese Paintings [z][y]
