@@ -5,7 +5,8 @@ stuff im reading, all the other files are notes.
  [m]: mediatechnology</br>
  [y]: art history</br>
  [z]: stuff on China</br>
- [a]: architecture, urban stuff
+ [a]: architecture, urban stuff</br>
+ [ABANDONED]: self-explanatory
 ## winter quarter, 2019
 - [x] Descartes, Discourse on Method, chapter V [c][m]
 - [x] Bernard de Fontenelle, To Mr. C [c][m] 
@@ -21,7 +22,7 @@ stuff im reading, all the other files are notes.
 ## spring break, 2019 (it's only 7 days ;_;)
 - [x] Friedrich Kittler, Towards an Ontology of Media [m] [summary pending!]
 - [ ] Claire Bishop, Installation Art: A Critical Anthology [m]
-- [ ] Alexander Galloway, The Interface Effect [m]
+- [ ] Alexander Galloway, The Interface Effect [m][ABANDONED]
 - [ ] Wu Hung, The Double Screen: Medium and Representation in Chinese Paintings [z][y]
 - [ ] Lev Manovich, The Anti-Sublime Ideal of Data Art [m][y]
 - [ ] wangjun, chéng jì [z][a]
