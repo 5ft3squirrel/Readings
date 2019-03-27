@@ -21,7 +21,7 @@ stuff im reading, all the other files are notes.
 - [x] Steven Strogatz, A Giant Step for a Chess-Playing Machine [c][m]
 ## spring break, 2019 (it's only 7 days ;_;)
 - [x] Friedrich Kittler, Towards an Ontology of Media [m] [summary pending!]
-- [ ] Claire Bishop, Installation Art: A Critical Anthology [m]
+- [ ] Claire Bishop, Installation Art: A Critical History [m]
 - [ ] Alexander Galloway, The Interface Effect [m][ABANDONED]
 - [ ] Wu Hung, The Double Screen: Medium and Representation in Chinese Paintings [z][y]
 - [ ] Lev Manovich, The Anti-Sublime Ideal of Data Art [m][y]
