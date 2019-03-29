@@ -1,12 +1,19 @@
 # ReadingsLog
 stuff im reading, all the other files are notes.
-## legend
+## legends for this file
  [c]: for class</br>
  [m]: mediatechnology</br>
+ [o]: machine reading and writing</br>
  [y]: art history</br>
  [z]: stuff on China</br>
  [a]: architecture, urban stuff</br>
- [ABANDONED]: self-explanatory
+ [ABANDONED], [BOOK], [CHAPTER], [PAPER]: self-explanatory
+## legends for reading notes
+ [R]: references to other's writing or to theorists</br>
+ [P]: premise of argument</br>
+ [C]: conclusion of argument</br>
+ [N]: personal note</br>
+ [Q]: citation in form of block quote in original writing</br>
 ## winter quarter, 2019
 - [x] Descartes, Discourse on Method, chapter V [c][m]
 - [x] Bernard de Fontenelle, To Mr. C [c][m] 
@@ -20,11 +27,12 @@ stuff im reading, all the other files are notes.
 - [x] Marvin Minsky, Why People Think Computers Can't [c][m]
 - [x] Steven Strogatz, A Giant Step for a Chess-Playing Machine [c][m]
 ## spring break, 2019 (it's only 7 days ;_;)
-- [x] Friedrich Kittler, Towards an Ontology of Media [m] [summary pending!]
-- [ ] Claire Bishop, Installation Art: A Critical History [m] (31/120 pages)
-- [ ] Alexander Galloway, The Interface Effect [m][ABANDONED] 
-- [ ] Wu Hung, The Double Screen: Medium and Representation in Chinese Paintings [z][y] (12/259 pages)
-- [ ] Lev Manovich, The Anti-Sublime Ideal of Data Art [m][y]
-- [ ] wangjun, chéng jì [z][a]
+- [x] Friedrich Kittler, Towards an Ontology of Media [m] [summary pending!][PAPER]
+- [ ] Claire Bishop, Installation Art: A Critical History [m][BOOK] (31/120 pages)
+- [ ] Alexander Galloway, The Interface Effect [m][ABANDONED][BOOK] 
+- [ ] Wu Hung, The Double Screen: Medium and Representation in Chinese Paintings [z][y][BOOK] (12/259 pages)
+- [ ] Lev Manovich, The Anti-Sublime Ideal of Data Art [m][y][PAPER]
+- [ ] wangjun, chéng jì [z][a][BOOK]
+- [ ] Amaranth Borsuk, The Upright Script: Words in Space and on the Page [m][o][PAPER]
 ## taking forever
-- [ ] Albert Camus, le Mythe de Sisyphe
+- [ ] Albert Camus, le Mythe de Sisyphe [BOOK]
