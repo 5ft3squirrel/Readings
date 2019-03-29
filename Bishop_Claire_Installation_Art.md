@@ -1,4 +1,4 @@
-#Installation Art, A Critical History
+# Installation Art, A Critical History
 available through UCSD library</br>
 ## 1. The Dream Scene
 - Kabokov: often mimic museums, encroach upon the role ofthe curator.
