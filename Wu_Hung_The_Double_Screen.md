@@ -1,3 +1,4 @@
+# The Double Screen: Medium and Representation in Chinese Painting
 ## vocab and translations
 - paraphernalia: 各種配件, 繁瑣的手續
 - ritual art / ritual paraphernalia 禮器
