@@ -1,7 +1,8 @@
 # The Double Screen: Medium and Representation in Chinese Painting
+Accessible through UCSB library.
 ## vocab and translations
 - paraphernalia: 各種配件, 繁瑣的手續
-- ritual art / ritual paraphernalia 禮器
+- ritual art / ritual paraphernalia 禮器, mostly lost dominant position after 商, 周, when China entered Imperial Era in 3rd century BC (more on: Wu Hung, «Monumentality in Early Chinese Art and Architecture»)
 ## Introduction: The Screen
 - problem: What is (traditional Chinese) painting?
 - answers: either intrinsic analysis of style & iconography or extrinsic study of contexts.
