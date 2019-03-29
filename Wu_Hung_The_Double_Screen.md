@@ -12,5 +12,5 @@
 ^^i.e.  Ma Yuan painting: screen --psychological relationship--> person: person in encircled area perceived as belonging to him; screen blocks unwelcome gaze, sense of privacy, guarantees he be the only spectator of the landscape, defines a place exclusively subjected to his vision.
 - screen as political symbol: emperor faces South in front of a screen (Book of Rites 禮記)
 - early 周 court ceremony: screen is the only furnishing mentioned in the text. model for constructing symbolic space pertaining to countries political structure: emperor as center, frontal-facing, in front of screen; inner circle: officers; beyond four gates: four "barbarian tribes". unity of the emperor and the screen. **screen symbolizes space that is a miniaturization of larger geographic and political sphere known as China** (Positions in the Bright Hall 明堂位)
-- screen **frames** internal or external signs.
+- screen **frames** internal or external </br>
 ^^ scholars on frame: «Poetics of Composition» 1973: creates necessary boundaries and transitions btw **«realities»** of diff standards of space, time, ideas, behavior; «Aspects of Intertextuality in Folklore and Literature» 1978: articulates texts from contexts and arranges texts and contexts in a hierarchy.
