@@ -26,7 +26,7 @@ stuff im reading, all the other files are notes.
 - [x] Alan Turing, Computing Machinery and Intelligence [c][m]
 - [x] Marvin Minsky, Why People Think Computers Can't [c][m]
 - [x] Steven Strogatz, A Giant Step for a Chess-Playing Machine [c][m]
-## spring break, 2019 ~ April 20th
+## spring break, 2019
 - [x] Friedrich Kittler, Towards an Ontology of Media [m] [summary pending!][PAPER]
 - [ ] Claire Bishop, Installation Art: A Critical History [m][BOOK] (31/120 pages)
 - [ ] Alexander Galloway, The Interface Effect [m][ABANDONED][BOOK] 
@@ -34,5 +34,9 @@ stuff im reading, all the other files are notes.
 - [ ] Lev Manovich, The Anti-Sublime Ideal of Data Art [m][y][PAPER]
 - [ ] wangjun, chéng jì [z][a][BOOK]
 - [ ] Amaranth Borsuk, The Upright Script: Words in Space and on the Page [m][o][PAPER]
+## spring quarter, 2019
+- [ ] Claire Bishop, Installation Art: A Critical History [m][BOOK]
+- [ ] Wu Hung, The Double Screen: Medium and Representation in Chinese Paintings [z][y][BOOK] (12/259 pages)
+- [ ] wangjun, chéng jì [z][a][BOOK]
 ## taking forever
-- [ ] Albert Camus, le Mythe de Sisyphe [BOOK]
+- [ ] 
