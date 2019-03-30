@@ -7,7 +7,7 @@ stuff im reading, all the other files are notes.
  [y]: art history</br>
  [z]: stuff on China</br>
  [a]: architecture, urban stuff</br>
- [ABANDONED], [BOOK], [CHAPTER], [PAPER]: self-explanatory
+ [ABANDONED], [BOOK], [CHAPTER], [PAPER], [BEYONDCURRENTUNDERSTANDING]: self-explanatory
 ## legends for reading notes
  [R]: references to other's writing or to theorists</br>
  [P]: premise of argument</br>
@@ -27,7 +27,7 @@ stuff im reading, all the other files are notes.
 - [x] Marvin Minsky, Why People Think Computers Can't [c][m]
 - [x] Steven Strogatz, A Giant Step for a Chess-Playing Machine [c][m]
 ## spring break, 2019
-- [x] Friedrich Kittler, Towards an Ontology of Media [m] [summary pending!][PAPER]
+- [x] Friedrich Kittler, Towards an Ontology of Media [m] [summary pending!][PAPER][BEYONDCURRENTUNDERSTANDING]
 - [ ] Claire Bishop, Installation Art: A Critical History [m][BOOK] (31/120 pages)
 - [ ] Alexander Galloway, The Interface Effect [m][ABANDONED][BOOK] 
 - [ ] Wu Hung, The Double Screen: Medium and Representation in Chinese Paintings [z][y][BOOK] (12/259 pages)
