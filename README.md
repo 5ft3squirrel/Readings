@@ -37,7 +37,7 @@ stuff im reading, all the other files are notes.
 ## spring quarter, 2019
 - [x] Harley, Maps, Knowledge, Power [PAPER][a][c][!!!need to read bibliography!!!]
 - [x] Naming Places [PAPER][c][a]
-- [ ] Raffestein, Claude, Pour une géograhie du pouvoir[BOOK][c][came from footnote of Harley 1988]
+- [ ] Raffestein, Claude, Pour une géograhie du pouvoir[BOOK][came from footnote of Harley 1988]
 - [ ] Claire Bishop, Installation Art: A Critical History [m][BOOK]
 - [ ] Wu Hung, The Double Screen: Medium and Representation in Chinese Paintings [z][y][BOOK] (12/259 pages)
 - [ ] wangjun, chéng jì [z][a][BOOK]
