@@ -7,7 +7,7 @@ stuff im reading, all the other files are notes.
  [y]: art history</br>
  [z]: stuff on China</br>
  [a]: architecture, geography, urban history stuffs</br>
- [t]: architecture-specific
+ [t]: architecture-specific</br>
  [ABANDONED], [BOOK], [CHAPTER], [PAPER], [BEYONDCURRENTUNDERSTANDING]: self-explanatory
 ## legends for reading notes
  [R]: references to other's writing or to theorists</br>
