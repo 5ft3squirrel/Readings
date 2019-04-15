@@ -38,10 +38,11 @@ stuff im reading, all the other files are notes.
 - [ ] Raffestein, Claude, Pour une géograhie du pouvoir[BOOK][came from footnote of Harley 1988]
 - [ ] Claire Bishop, Installation Art: A Critical History [m][BOOK]
 - [ ] Wu Hung, The Double Screen: Medium and Representation in Chinese Paintings [z][y][BOOK] (12/259 pages)
-- [ ] wangjun, chéng jì [z][a][BOOK]
+- [ ] 王軍, 城記 [z][a][BOOK]
 - [ ] Lev Manovich, The Anti-Sublime Ideal of Data Art [m][y][PAPER]
 - [ ] Amaranth Borsuk, The Upright Script: Words in Space and on the Page [m][o][PAPER]
 - [ ] Michel Foucault, Power and Knowledge [BOOK][Geography section relevant to Harley and Raffestein] https://monoskop.org/images/5/5d/Foucault_Michel_Power_Knowledge_Selected_Interviews_and_Other_Writings_1972-1977.pdf
 - [ ] Abraham Moles,	Nissonologie ou science des îles [PAPER] [came from footnote of Péron 2003] https://www.persee.fr/doc/spgeo_0046-2497_1982_num_11_4_3782
+- [ ] 石守謙， 中國文人畫究竟是什麼[y][z][CHAPTER]
 ## taking forever
 - [ ] 
