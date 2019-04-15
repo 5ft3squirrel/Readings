@@ -6,7 +6,7 @@ stuff im reading, all the other files are notes.
  [o]: machine reading and writing</br>
  [y]: art history</br>
  [z]: stuff on China</br>
- [a]: architecture, urban stuff</br>
+ [a]: architecture, geography, urban stuff</br>
  [ABANDONED], [BOOK], [CHAPTER], [PAPER], [BEYONDCURRENTUNDERSTANDING]: self-explanatory
 ## legends for reading notes
  [R]: references to other's writing or to theorists</br>
@@ -35,8 +35,13 @@ stuff im reading, all the other files are notes.
 - [ ] wangjun, chéng jì [z][a][BOOK]
 - [ ] Amaranth Borsuk, The Upright Script: Words in Space and on the Page [m][o][PAPER]
 ## spring quarter, 2019
+- [x] Harley, Maps, Knowledge, Power [PAPER][a][c][!!!need to read bibliography!!!]
+- [x] Naming Places [PAPER][c][a]
+- [ ] Raffestein, Claude, Pour une géograhie du pouvoir[BOOK][c][came from footnote of Harley 1988]
 - [ ] Claire Bishop, Installation Art: A Critical History [m][BOOK]
 - [ ] Wu Hung, The Double Screen: Medium and Representation in Chinese Paintings [z][y][BOOK] (12/259 pages)
 - [ ] wangjun, chéng jì [z][a][BOOK]
+- [ ] Michel Foucault, Power and Knowledge [BOOK][Geography section relevant to Harley and Raffestein] https://monoskop.org/images/5/5d/Foucault_Michel_Power_Knowledge_Selected_Interviews_and_Other_Writings_1972-1977.pdf
+- [ ] Abraham Moles,	Nissonologie ou science des îles [PAPER] https://www.persee.fr/doc/spgeo_0046-2497_1982_num_11_4_3782
 ## taking forever
 - [ ] 
