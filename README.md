@@ -45,5 +45,7 @@ stuff im reading, all the other files are notes.
 - [ ] Michel Foucault, Power and Knowledge [BOOK][Geography section relevant to Harley and Raffestein] https://monoskop.org/images/5/5d/Foucault_Michel_Power_Knowledge_Selected_Interviews_and_Other_Writings_1972-1977.pdf
 - [ ] Abraham Moles,	Nissonologie ou science des îles [PAPER][a] [came from footnote of Péron 2003] https://www.persee.fr/doc/spgeo_0046-2497_1982_num_11_4_3782
 - [ ] 石守謙， 中國文人畫究竟是什麼[y][z][CHAPTER]
+- [x] The earliest evidence of pattern looms: Han Dynasty tomb models from Chengdu, China [z][m][PAPER]
+https://doi.org/10.15184/aqy.2016.267
 ## taking forever
 - [ ] 
