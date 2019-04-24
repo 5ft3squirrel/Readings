@@ -47,5 +47,8 @@ stuff im reading, all the other files are notes.
 - [ ] 石守謙， 中國文人畫究竟是什麼[y][z][CHAPTER]
 - [x] The earliest evidence of pattern looms: Han Dynasty tomb models from Chengdu, China [z][m][PAPER]
 https://doi.org/10.15184/aqy.2016.267
+- [ ] Siegfried Gideon, Mechanization Takes Command [PAPER][m]
+- [ ] Siegfried Gideon, Space, Time, Architecture [BOOK][a][t]
+
 ## taking forever
 - [ ] 
