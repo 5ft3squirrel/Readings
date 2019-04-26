@@ -1,11 +1,12 @@
 # Lev Manovich,«New Media From Borges to HTML» (2003)
-## Legend
+part of <New Media Reader>, found thru <The Upright Script> and ENGL146MR
+## legend
 [R] references to other's writing or to theorists
 [P] premise of argument
 [C] conclusion of argument
 [N] personal note
 [Q] citation in form of block quote in original writing
-## Legend specific to this file
+## legend specific to this file
 [T] technology or media used.
 [D] definition
 [E] example of art or poetry piece
