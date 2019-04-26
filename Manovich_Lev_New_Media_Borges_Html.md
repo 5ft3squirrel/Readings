@@ -1,5 +1,5 @@
 # Lev Manovich,«New Media From Borges to HTML» (2003)
-part of <New Media Reader>, found thru <The Upright Script> and ENGL146MR
+part of «New Media Reader», found thru «The Upright Script» and ENGL146MR
 ## legend
 [R] references to other's writing or to theorists
 [P] premise of argument
